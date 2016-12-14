@@ -1,0 +1,24 @@
+{
+  "name": "gulp-add-version",
+  "version": "1.0.0",
+  "description": "add a version to js css img",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sparkinzy/gulp-add-version.git"
+  },
+  "keywords": [
+    "gulp",
+    "version"
+  ],
+  "author": "sparkinzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sparkinzy/gulp-add-version/issues"
+  },
+  "homepage": "https://github.com/Sparkinzy/gulp-add-version#readme"
+  
+}
